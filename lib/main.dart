@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'manpo2.dart';
+import 'manpo3.dart';
 
 void main() {
   runApp(const MainApp());
